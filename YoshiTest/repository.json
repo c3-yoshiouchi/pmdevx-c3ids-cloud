@@ -1,0 +1,8 @@
+{
+  "name": "YoshiTestApp",
+  "version": "0.0.1",
+  "description": "Test App",
+  "dependencies": {
+    "server": "7.27.0"
+  }
+}
